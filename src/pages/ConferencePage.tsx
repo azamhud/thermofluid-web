@@ -8,7 +8,10 @@ const ConferencePage: React.FC = () => {
       <main className="conference">
         <section className="hero">
           <div className="container">
-            <h1>International Conference on Thermofluids</h1>
+            <h1>
+              The 14th International Conference and Short Course on Thermofluids
+              2025
+            </h1>
             <p>July 15–17, 2025 · Yogyakarta, Indonesia</p>
             <a href="#register" className="btn-primary">
               Register Now
