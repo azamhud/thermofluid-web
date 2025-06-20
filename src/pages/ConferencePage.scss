@@ -1,0 +1,94 @@
+.conference {
+  font-family: "Segoe UI", sans-serif;
+
+  .hero {
+    background: linear-gradient(135deg, #0070f3, #00bcd4);
+    color: white;
+    padding: 4rem 0;
+    text-align: center;
+
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      font-size: 1.25rem;
+    }
+
+    .btn-primary {
+      margin-top: 1rem;
+      display: inline-block;
+      background: white;
+      color: #0070f3;
+      padding: 0.75rem 1.5rem;
+      border-radius: 4px;
+      text-decoration: none;
+      font-weight: bold;
+
+      &:hover {
+        background: #e0f2ff;
+      }
+    }
+  }
+
+  section {
+    padding: 3rem 0;
+    .container {
+      width: 90%;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    p {
+      font-size: 1rem;
+      color: #444;
+    }
+  }
+
+  .speakers {
+    background: #f9f9f9;
+
+    .speaker-list {
+      list-style: none;
+      padding: 0;
+
+      li {
+        margin-bottom: 1rem;
+        h3 {
+          font-size: 1.25rem;
+          margin: 0.25rem 0;
+        }
+      }
+    }
+  }
+
+  .schedule {
+    background: #fff8e1;
+
+    ul {
+      padding-left: 1.2rem;
+      li {
+        margin-bottom: 0.5rem;
+      }
+    }
+  }
+
+  .register {
+    background: #e1f5fe;
+    text-align: center;
+  }
+
+  .footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 0.9rem;
+  }
+}
