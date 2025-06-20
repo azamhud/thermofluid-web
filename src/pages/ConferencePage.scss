@@ -51,8 +51,9 @@
     }
   }
 
-  .speakers {
+  .paper {
     background: #f9f9f9;
+    text-align: center;
 
     .speaker-list {
       list-style: none;
@@ -68,8 +69,17 @@
     }
   }
 
-  .schedule {
+  .committee {
     background: #fff8e1;
+    .image {
+      display: flex;
+      justify-content: space-around;
+    }
+    img {
+      max-width: 35vh;
+      height: auto;
+      border-radius: 8px;
+    }
 
     ul {
       padding-left: 1.2rem;
@@ -90,5 +100,13 @@
     text-align: center;
     padding: 1rem 0;
     font-size: 0.9rem;
+  }
+
+  .paragraph {
+    text-align: left;
+  }
+
+  .center-text {
+    text-align: center;
   }
 }

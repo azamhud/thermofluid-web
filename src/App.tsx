@@ -4,6 +4,10 @@ import { Routes, Route } from "react-router-dom";
 import { HashRouter as Router } from "react-router-dom";
 import Header from "./pages/Header";
 import ConferencePage from "./pages/ConferencePage";
+import RegisterPage from "./pages/RegisterPage";
+import TutorialPage from "./pages/TutorialPage";
+import GalleryPage from "./pages/GalleryPage";
+import ContactPage from "./pages/ContactPage";
 
 const App: React.FC = () => {
   return (
@@ -19,8 +23,10 @@ const App: React.FC = () => {
               </div>
             }
           />
-          <Route path="/about" element={<div>About Page</div>} />
-          <Route path="/contact" element={<div>Contact Page</div>} />
+          <Route path="/register-page" element={<RegisterPage />} />
+          <Route path="/tutorial-page" element={<TutorialPage />} />
+          <Route path="/past-event" element={<GalleryPage />} />
+          <Route path="/contact" element={<ContactPage />} />
         </Routes>
       </main>
     </Router>

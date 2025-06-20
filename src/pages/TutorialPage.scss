@@ -1,0 +1,42 @@
+.tutorial-page {
+  padding: 4rem 1rem;
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #003366;
+  }
+
+  section {
+    margin-bottom: 2rem;
+
+    h2 {
+      font-size: 1.25rem;
+      margin-bottom: 0.5rem;
+      color: #0070f3;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    a {
+      color: #0070f3;
+      text-decoration: underline;
+    }
+  }
+
+  .back-link {
+    margin-top: 3rem;
+    text-align: center;
+
+    a {
+      color: #0070f3;
+    }
+  }
+}
