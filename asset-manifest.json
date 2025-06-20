@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thermofluid-web/static/css/main.30b0f5b7.css",
-    "main.js": "/thermofluid-web/static/js/main.a16a8b24.js",
+    "main.js": "/thermofluid-web/static/js/main.64270b7a.js",
     "static/js/453.289f04cb.chunk.js": "/thermofluid-web/static/js/453.289f04cb.chunk.js",
     "index.html": "/thermofluid-web/index.html",
     "main.30b0f5b7.css.map": "/thermofluid-web/static/css/main.30b0f5b7.css.map",
-    "main.a16a8b24.js.map": "/thermofluid-web/static/js/main.a16a8b24.js.map",
+    "main.64270b7a.js.map": "/thermofluid-web/static/js/main.64270b7a.js.map",
     "453.289f04cb.chunk.js.map": "/thermofluid-web/static/js/453.289f04cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30b0f5b7.css",
-    "static/js/main.a16a8b24.js"
+    "static/js/main.64270b7a.js"
   ]
 }
