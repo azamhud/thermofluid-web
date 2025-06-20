@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/thermofluid-web/static/css/main.30b0f5b7.css",
-    "main.js": "/thermofluid-web/static/js/main.64270b7a.js",
+    "main.css": "/thermofluid-web/static/css/main.8e612f4c.css",
+    "main.js": "/thermofluid-web/static/js/main.c748bcb1.js",
     "static/js/453.289f04cb.chunk.js": "/thermofluid-web/static/js/453.289f04cb.chunk.js",
+    "static/media/komite2.png": "/thermofluid-web/static/media/komite2.9a04322a5688fa0cfa39.png",
+    "static/media/komite1.png": "/thermofluid-web/static/media/komite1.639a2f04e9db499e8629.png",
+    "static/media/pastevent1.jpg": "/thermofluid-web/static/media/pastevent1.f37b9e5628c6be87048f.jpg",
+    "static/media/poster.png": "/thermofluid-web/static/media/poster.47e071f5cab445c82fa5.png",
+    "static/media/pastevent3.png": "/thermofluid-web/static/media/pastevent3.61d66c59671504f5bf27.png",
+    "static/media/pastevent2.png": "/thermofluid-web/static/media/pastevent2.944492a845534e52c6ea.png",
+    "static/media/edas.png": "/thermofluid-web/static/media/edas.a4d7ef1202a0ac9b8162.png",
+    "static/media/title.png": "/thermofluid-web/static/media/title.09d135a463234e42cbe4.png",
     "index.html": "/thermofluid-web/index.html",
-    "main.30b0f5b7.css.map": "/thermofluid-web/static/css/main.30b0f5b7.css.map",
-    "main.64270b7a.js.map": "/thermofluid-web/static/js/main.64270b7a.js.map",
+    "main.8e612f4c.css.map": "/thermofluid-web/static/css/main.8e612f4c.css.map",
+    "main.c748bcb1.js.map": "/thermofluid-web/static/js/main.c748bcb1.js.map",
     "453.289f04cb.chunk.js.map": "/thermofluid-web/static/js/453.289f04cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30b0f5b7.css",
-    "static/js/main.64270b7a.js"
+    "static/css/main.8e612f4c.css",
+    "static/js/main.c748bcb1.js"
   ]
 }
