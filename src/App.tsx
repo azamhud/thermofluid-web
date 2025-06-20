@@ -1,6 +1,7 @@
 // App.tsx
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import Header from "./pages/Header";
 import ConferencePage from "./pages/ConferencePage";
 
